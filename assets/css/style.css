@@ -1,0 +1,30 @@
+.mainbody {
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    background-color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.fixed-bottom {
+    background-color: #4aaaa5;
+    border-top:solid gray 5px;
+    
+}
+.bg {
+    background-image: url("../images/blue-snow.png");
+    display: flex;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.navbar {
+    
+}
+.navbar-brand {
+    background-color: #4aaaa5;
+    padding: 110;
+    margin: 0;
+}
