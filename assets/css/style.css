@@ -25,6 +25,9 @@
 }
 .navbar-brand {
     background-color: #4aaaa5;
-    padding: 110;
+    padding: ;
     margin: 0;
+}
+.mvr {
+    justify-content: end;
 }
